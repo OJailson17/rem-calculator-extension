@@ -1,0 +1,23 @@
+{
+	"manifest_version": 3,
+	"name": "Px to Rem",
+	"description": "Convert px to rem",
+	"version": "1.0.0",
+
+	"icons": {
+		"16": "./assets/r-letter.png",
+		"48": "./assets/r-letter.png",
+		"128": "./assets/r-letter.png"
+	},
+
+	"action": {
+		"default_title": "Px to Rem",
+		"default_popup": "index.html",
+
+		"default_icon": {
+			"16": "./assets/r-letter.png",
+			"24": "./assets/r-letter.png",
+			"32": "./assets/r-letter.png"
+		}
+	}
+}
