@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
 	"name": "Px to Rem",
-	"description": "Convert px to rem",
-	"version": "1.0.0",
+	"description": "The application is capable of convert 'px' into 'rem'.",
+	"version": "1.0.1",
 
 	"icons": {
 		"16": "./assets/r-letter.png",

@@ -17,3 +17,8 @@ const convertPxToRem = pxValue => {
 
 	resultContainer.innerHTML = `${rem}rem`;
 };
+
+// Copy result to clipboard when clicked
+resultContainer.addEventListener('click', () => {
+	navigator.clipboard.writeText(resultContainer.textContent);
+});
